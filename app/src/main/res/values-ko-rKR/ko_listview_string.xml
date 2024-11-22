@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework_1122</string>
+    <string name="food_beef_noodles">소고기 국수</string>
+    <string name="food_sushi">스시</string>
+    <string name="food_hot_pot">훠궈</string>
+    <string name="food_fried_chicken">치킨</string>
+    <string name="food_pizza">피자</string>
+    <string name="food_ramen">라면</string>
+    <string name="food_hamburger">햄버거</string>
+    <string name="food_fried_rice">볶음밥</string>
+    <string name="food_donut">도넛</string>
+
+    <string name="calories_beef_noodles">열량: 약 150 kcal</string>
+    <string name="calories_sushi">열량: 약 200 kcal</string>
+    <string name="calories_hot_pot">열량: 약 250 kcal (육수에 따라 다름)</string>
+    <string name="calories_fried_chicken">열량: 약 300 kcal</string>
+    <string name="calories_pizza">열량: 약 270 kcal</string>
+    <string name="calories_ramen">열량: 약 430 kcal</string>
+    <string name="calories_hamburger">열량: 약 290 kcal</string>
+    <string name="calories_fried_rice">열량: 약 200 kcal</string>
+    <string name="calories_donut">열량: 약 450 kcal</string>
+</resources>

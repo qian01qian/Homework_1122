@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework_1122</string>
+    <string name="food_beef_noodles">牛肉麵</string>
+    <string name="food_sushi">壽司</string>
+    <string name="food_hot_pot">火鍋</string>
+    <string name="food_fried_chicken">炸雞</string>
+    <string name="food_pizza">披薩</string>
+    <string name="food_ramen">拉麵</string>
+    <string name="food_hamburger">漢堡</string>
+    <string name="food_fried_rice">炒飯</string>
+    <string name="food_donut">甜甜圈</string>
+
+    <string name="calories_beef_noodles">約 150 大卡</string>
+    <string name="calories_sushi">約 200 大卡</string>
+    <string name="calories_hot_pot">約 250 大卡（因湯底不同而異）</string>
+    <string name="calories_fried_chicken">約 300 大卡</string>
+    <string name="calories_pizza">約 270 大卡</string>
+    <string name="calories_ramen">約 430 大卡</string>
+    <string name="calories_hamburger">約 290 大卡</string>
+    <string name="calories_fried_rice">約 200 大卡</string>
+    <string name="calories_donut">約 450 大卡</string>
+</resources>

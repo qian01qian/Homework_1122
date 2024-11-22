@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework_1122</string>
+    <string name="food_beef_noodles">牛肉麺（にくめん）</string>
+    <string name="food_sushi">寿司（すし）</string>
+    <string name="food_hot_pot">火鍋（ひなべ）</string>
+    <string name="food_fried_chicken">フライドチキン</string>
+    <string name="food_pizza">ピザ</string>
+    <string name="food_ramen">ラーメン</string>
+    <string name="food_hamburger">ハンバーガー</string>
+    <string name="food_fried_rice">炒飯（チャーハン）</string>
+    <string name="food_donut">ドーナツ</string>
+
+    <string name="calories_beef_noodles">カロリー：約150 kcal</string>
+    <string name="calories_sushi">カロリー：約200 kcal</string>
+    <string name="calories_hot_pot">カロリー：約250 kcal（スープによる変動あり）</string>
+    <string name="calories_fried_chicken">カロリー：約300 kcal</string>
+    <string name="calories_pizza">カロリー：約270 kcal</string>
+    <string name="calories_ramen">カロリー：約430 kcal</string>
+    <string name="calories_hamburger">カロリー：約290 kcal</string>
+    <string name="calories_fried_rice">カロリー：約200 kcal</string>
+    <string name="calories_donut">カロリー：約450 kcal</string>
+</resources>

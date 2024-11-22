@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Homework_1122</string>
+    <string name="food_beef_noodles">Beef Noodles</string>
+    <string name="food_sushi">Sushi</string>
+    <string name="food_hot_pot">Hot Pot</string>
+    <string name="food_fried_chicken">Fried Chicken</string>
+    <string name="food_pizza">Pizza</string>
+    <string name="food_ramen">Ramen</string>
+    <string name="food_hamburger">Hamburger</string>
+    <string name="food_fried_rice">Fried Rice</string>
+    <string name="food_donut">Donut</string>
+
+    <string name="calories_beef_noodles">~150 kcal</string>
+    <string name="calories_sushi">~200 kcal</string>
+    <string name="calories_hot_pot">~250 kcal (varies by broth)</string>
+    <string name="calories_fried_chicken">~300 kcal</string>
+    <string name="calories_pizza">~270 kcal</string>
+    <string name="calories_ramen">~430 kcal</string>
+    <string name="calories_hamburger">~290 kcal</string>
+    <string name="calories_fried_rice">~200 kcal</string>
+    <string name="calories_donut">~450 kcal</string>
+</resources>
